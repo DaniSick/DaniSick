@@ -1,5 +1,7 @@
 <div align="center">
 
+![Spike Spiegel](banner.png)
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%C2%B7+Infrastructure+%C2%B7+SaaS;From+architecture+to+deployment" alt="Software Engineer — Backend, Infrastructure, SaaS" />
 
 ## Daniel Nieto
