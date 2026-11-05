@@ -6,7 +6,9 @@ I build and maintain complete software systems — from backend architecture and
 
 ## Stack
 
-**Languages**
+<details>
+<summary><b>Languages</b></summary>
+<br>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -15,19 +17,31 @@ I build and maintain complete software systems — from backend architecture and
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-**Backend**
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Frontend**
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-6D28D9?style=flat-square&logo=livewire&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Infrastructure & DevOps**
+</details>
+
+<details>
+<summary><b>Infrastructure & DevOps</b></summary>
+<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -35,11 +49,17 @@ I build and maintain complete software systems — from backend architecture and
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Dokploy](https://img.shields.io/badge/Dokploy-7C3AED?style=flat-square&logo=railway&logoColor=white)
 
-**Databases**
+</details>
+
+<details>
+<summary><b>Databases</b></summary>
+<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</details>
 
 <br>
 
