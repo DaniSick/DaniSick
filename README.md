@@ -1,24 +1,28 @@
 <div align="center">
 
-![Spike Spiegel](banner.png)
+<img src="banner.png" alt="Spike Spiegel" width="100%">
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%C2%B7+Infrastructure+%C2%B7+SaaS;From+architecture+to+deployment" alt="Software Engineer — Backend, Infrastructure, SaaS" />
 
+<br>
+
 ## Daniel Nieto
 
-**Software Engineer** · Mexico
+**Software Engineer** &nbsp;·&nbsp; Mexico
 
 </div>
 
----
+<br>
 
 ## About
 
-I design, develop, deploy and maintain complete software systems. My focus is backend engineering, software architecture and infrastructure — building things that are reliable, maintainable and built to last.
+I design, develop, deploy and maintain complete software systems. My work centers on backend engineering and software architecture — building reliable systems that remain maintainable over time.
 
-I work across the full stack when needed, but my primary interest is in the systems underneath: APIs, services, databases, deployments and the structural decisions that determine how software ages.
+Day to day: REST APIs, infrastructure, databases and deployment pipelines. I value correctness, security and long-term engineering quality over moving fast.
 
----
+<br>
 
 ## Stack
 
@@ -57,17 +61,13 @@ I work across the full stack when needed, but my primary interest is in the syst
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
+<br>
 
 ## Interests
 
-- Software Architecture & System Design
-- Backend Engineering & API Design
-- SaaS Application Development
-- Infrastructure & DevOps
-- Application Security
+Software Architecture &nbsp;·&nbsp; Backend Engineering &nbsp;·&nbsp; SaaS Development &nbsp;·&nbsp; Infrastructure & DevOps &nbsp;·&nbsp; Application Security
 
----
+<br>
 
 ## Stats
 
@@ -76,8 +76,10 @@ I work across the full stack when needed, but my primary interest is in the syst
   <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSick&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages" />
 </div>
 
+<br>
+
 ---
 
 <div align="center">
-<sub>Mexico · <a href="https://github.com/DaniSick">github.com/DaniSick</a></sub>
+<sub>Mexico &nbsp;·&nbsp; <a href="https://github.com/DaniSick">github.com/DaniSick</a></sub>
 </div>
