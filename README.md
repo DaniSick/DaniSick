@@ -1,14 +1,16 @@
-<div align="center">
+# Daniel — Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1500&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+%C2%B7+Infrastructure+%C2%B7+SaaS;Software+Engineer;From+architecture+to+deployment" alt="Software Engineer — Backend, Infrastructure, SaaS" />
-
-</div>
+**Backend · Infrastructure · SaaS**
 
 ---
 
 ## About
 
 I build and maintain complete software systems — from backend architecture and APIs to infrastructure and deployment pipelines. I focus on correctness, maintainability and security.
+
+My work covers the full lifecycle of a product: designing the data model and the domain logic, exposing it through well-defined APIs, and taking it to production with containerised deployments, CI/CD pipelines and monitoring. I work mainly on SaaS and multi-tenant applications, where data isolation, authorization and predictable performance are requirements rather than afterthoughts.
+
+Day to day that means software architecture and backend engineering, SaaS development, infrastructure and DevOps, and application security — reviewing authorization on every state-changing action, validating input at system boundaries, and keeping queries and schema changes under control as the product grows.
 
 <br>
 
@@ -50,18 +52,3 @@ I build and maintain complete software systems — from backend architecture and
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
-
-## Interests
-
-`Software Architecture` &nbsp;·&nbsp; `Backend Engineering` &nbsp;·&nbsp; `SaaS Development` &nbsp;·&nbsp; `Infrastructure & DevOps` &nbsp;·&nbsp; `Application Security`
-
-<br>
-
-## Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaniSick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniSick&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=DaniSick&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
