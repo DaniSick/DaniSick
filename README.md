@@ -1,10 +1,46 @@
 ## About
 
-I build and maintain complete software systems — from backend architecture and APIs to infrastructure and deployment pipelines. I focus on correctness, maintainability and security.
+> **I build and maintain complete software systems** — from backend architecture and APIs
+> to infrastructure and deployment pipelines, with correctness, maintainability and security
+> as the baseline rather than the goal.
 
-My work covers the full lifecycle of a product: designing the data model and the domain logic, exposing it through well-defined APIs, and taking it to production with containerised deployments, CI/CD pipelines and monitoring. I work mainly on SaaS and multi-tenant applications, where data isolation, authorization and predictable performance are requirements rather than afterthoughts.
+My work covers the full lifecycle of a product: designing the data model and the domain logic, exposing it through well-defined APIs, and taking it to production with containerised deployments, CI/CD pipelines and monitoring. I work mainly on **SaaS and multi-tenant applications**, where data isolation, authorization and predictable performance are requirements, not afterthoughts.
 
-Day to day that means software architecture and backend engineering, SaaS development, infrastructure and DevOps, and application security — reviewing authorization on every state-changing action, validating input at system boundaries, and keeping queries and schema changes under control as the product grows.
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Architecture**
+
+Domain modelling, clear module boundaries and contracts that survive the next feature.
+
+</td>
+<td width="33%" valign="top">
+
+**Infrastructure**
+
+Docker, CI/CD and reproducible deployments — from first commit to production.
+
+</td>
+<td width="33%" valign="top">
+
+**Security**
+
+Authorization on every state change, validated input at every boundary, tenant isolation by default.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-7C3AED?style=flat-square)
+![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-6D28D9?style=flat-square)
+![SaaS](https://img.shields.io/badge/SaaS_Development-5B21B6?style=flat-square)
+![DevOps](https://img.shields.io/badge/Infrastructure_%26_DevOps-4C1D95?style=flat-square)
+![Application Security](https://img.shields.io/badge/Application_Security-3B0764?style=flat-square)
 
 <br>
 
