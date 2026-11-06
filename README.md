@@ -1,9 +1,3 @@
-# Daniel — Software Engineer
-
-**Backend · Infrastructure · SaaS**
-
----
-
 ## About
 
 I build and maintain complete software systems — from backend architecture and APIs to infrastructure and deployment pipelines. I focus on correctness, maintainability and security.
