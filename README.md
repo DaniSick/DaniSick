@@ -5,35 +5,38 @@
 
 Most of my work is **multi-tenant SaaS**: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.
 
-![Software Architecture](https://img.shields.io/badge/Software_Architecture-7C3AED?style=flat-square)
-![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-6D28D9?style=flat-square)
-![SaaS](https://img.shields.io/badge/SaaS_Development-5B21B6?style=flat-square)
-![DevOps](https://img.shields.io/badge/Infrastructure_%26_DevOps-4C1D95?style=flat-square)
-![Application Security](https://img.shields.io/badge/Application_Security-3B0764?style=flat-square)
-
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**Architecture**
+<img src="https://img.shields.io/badge/Backend-7C3AED?style=for-the-badge" alt="Backend">
+
+- REST APIs & integrations
+- Queues & background jobs
+- Query performance
+
+</td>
+<td width="25%" valign="top">
+
+<img src="https://img.shields.io/badge/Architecture-6D28D9?style=for-the-badge" alt="Architecture">
 
 - Domain modelling
 - Clear module boundaries
 - Contracts that survive the next feature
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**Infrastructure**
+<img src="https://img.shields.io/badge/Infrastructure-5B21B6?style=for-the-badge" alt="Infrastructure">
 
 - Docker & reproducible builds
 - CI/CD pipelines
 - Monitored production deploys
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**Security**
+<img src="https://img.shields.io/badge/Security-4C1D95?style=for-the-badge" alt="Security">
 
 - Authorization on every state change
 - Input validated at every boundary
