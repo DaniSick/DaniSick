@@ -55,6 +55,7 @@ stats = {
     "longest_streak": longest,
     "followers": user["followers"]["totalCount"],
     "since": user["createdAt"][:4],
+    "weeks": [sum(d["contributionCount"] for d in w["contributionDays"]) for w in cal["weeks"]][-52:],
 }
 with open(os.path.join(HERE, "stats.json"), "w") as f:
     json.dump(stats, f, indent=2)
