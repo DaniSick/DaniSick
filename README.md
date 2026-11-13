@@ -1,9 +1,8 @@
-## About
-
-> **I build and maintain complete software systems** — backend, APIs, infrastructure and delivery —
-> with correctness, maintainability and security as the baseline, not the goal.
-
-Most of my work is **multi-tenant SaaS**: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-card.svg">
+  <img src="assets/about-card.svg" width="100%" alt="I build and maintain complete software systems — backend, APIs, infrastructure and delivery — with correctness, maintainability and security as the baseline, not the goal. Most of my work is multi-tenant SaaS: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-cards-dark.svg">

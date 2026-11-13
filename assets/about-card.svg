@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1002" height="214" viewBox="0 0 1002 214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="1001" height="213" fill="#F1EEF9" stroke="#CDC6E8"/>
+<rect width="1002" height="44" fill="#CDC6E8"/>
+<text x="24" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">ABOUT</text>
+<text x="24" y="90" font-size="19" font-weight="600" fill="#2E2A47">I build and maintain complete software systems — backend, APIs, infrastructure and</text>
+<text x="24" y="118" font-size="19" font-weight="600" fill="#2E2A47">delivery — with correctness, maintainability and security as the baseline, not the goal.</text>
+<text x="24" y="160" font-size="15" fill="#3F3A5C">Most of my work is <tspan font-weight="700" fill="#2E2A47">multi-tenant SaaS</tspan>: products where data isolation, authorization and predictable performance are</text>
+<text x="24" y="184" font-size="15" fill="#3F3A5C">requirements from day one. I take them from the first data model to production, and keep them running there.</text>
+</svg>
