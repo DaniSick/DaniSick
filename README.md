@@ -9,7 +9,7 @@ Most of my work is **multi-tenant SaaS**: products where data isolation, authori
 <tr>
 <td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/Backend-7C3AED?style=for-the-badge" alt="Backend">
+<img src="https://img.shields.io/badge/Backend-CDC6E8?style=for-the-badge" alt="Backend">
 
 - REST APIs & integrations
 - Queues & background jobs
@@ -18,7 +18,7 @@ Most of my work is **multi-tenant SaaS**: products where data isolation, authori
 </td>
 <td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/Architecture-6D28D9?style=for-the-badge" alt="Architecture">
+<img src="https://img.shields.io/badge/Architecture-CDC6E8?style=for-the-badge" alt="Architecture">
 
 - Domain modelling
 - Clear module boundaries
@@ -27,7 +27,7 @@ Most of my work is **multi-tenant SaaS**: products where data isolation, authori
 </td>
 <td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/Infrastructure-5B21B6?style=for-the-badge" alt="Infrastructure">
+<img src="https://img.shields.io/badge/Infrastructure-CDC6E8?style=for-the-badge" alt="Infrastructure">
 
 - Docker & reproducible builds
 - CI/CD pipelines
@@ -36,7 +36,7 @@ Most of my work is **multi-tenant SaaS**: products where data isolation, authori
 </td>
 <td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/Security-4C1D95?style=for-the-badge" alt="Security">
+<img src="https://img.shields.io/badge/Security-CDC6E8?style=for-the-badge" alt="Security">
 
 - Authorization on every state change
 - Input validated at every boundary
