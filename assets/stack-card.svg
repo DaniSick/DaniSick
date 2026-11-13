@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1002" height="284" viewBox="0 0 1002 284" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="1001" height="283" fill="#F1EEF9" stroke="#CDC6E8"/>
+<rect width="1002" height="44" fill="#CDC6E8"/>
+<text x="24" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">STACK</text>
+<text x="24" y="77.0" font-size="14" font-weight="600" fill="#2E2A47">Languages</text>
+<rect x="214" y="59.0" width="45" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="236.5" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">PHP</text>
+<rect x="267" y="59.0" width="98" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="316.0" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">TypeScript</text>
+<rect x="373" y="59.0" width="98" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="422.0" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">JavaScript</text>
+<rect x="479" y="59.0" width="68" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="513.0" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Python</text>
+<rect x="555" y="59.0" width="37" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="573.5" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">C#</text>
+<rect x="600" y="59.0" width="52" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="626.0" y="76.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Dart</text>
+<line x1="24" y1="95" x2="978" y2="95" stroke="#CDC6E8"/>
+<text x="24" y="123.0" font-size="14" font-weight="600" fill="#2E2A47">Backend</text>
+<rect x="214" y="105.0" width="75" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="251.5" y="122.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Laravel</text>
+<rect x="297" y="105.0" width="75" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="334.5" y="122.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Node.js</text>
+<line x1="24" y1="141" x2="978" y2="141" stroke="#CDC6E8"/>
+<text x="24" y="169.0" font-size="14" font-weight="600" fill="#2E2A47">Frontend</text>
+<rect x="214" y="151.0" width="60" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="244.0" y="168.5" text-anchor="middle" font-size="13" fill="#3F3A5C">React</text>
+<rect x="282" y="151.0" width="75" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="319.5" y="168.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Next.js</text>
+<rect x="365" y="151.0" width="83" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="406.5" y="168.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Livewire</text>
+<rect x="456" y="151.0" width="113" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="512.5" y="168.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Tailwind CSS</text>
+<line x1="24" y1="187" x2="978" y2="187" stroke="#CDC6E8"/>
+<text x="24" y="215.0" font-size="14" font-weight="600" fill="#2E2A47">Infra &amp; DevOps</text>
+<rect x="214" y="197.0" width="68" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="248.0" y="214.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Docker</text>
+<rect x="290" y="197.0" width="60" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="320.0" y="214.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Linux</text>
+<rect x="358" y="197.0" width="98" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="407.0" y="214.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Cloudflare</text>
+<rect x="464" y="197.0" width="128" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="528.0" y="214.5" text-anchor="middle" font-size="13" fill="#3F3A5C">GitHub Actions</text>
+<rect x="600" y="197.0" width="75" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="637.5" y="214.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Dokploy</text>
+<line x1="24" y1="233" x2="978" y2="233" stroke="#CDC6E8"/>
+<text x="24" y="261.0" font-size="14" font-weight="600" fill="#2E2A47">Databases</text>
+<rect x="214" y="243.0" width="98" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="263.0" y="260.5" text-anchor="middle" font-size="13" fill="#3F3A5C">PostgreSQL</text>
+<rect x="320" y="243.0" width="60" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="350.0" y="260.5" text-anchor="middle" font-size="13" fill="#3F3A5C">MySQL</text>
+<rect x="388" y="243.0" width="60" height="26" fill="#E2DCF3" stroke="#CDC6E8"/>
+<text x="418.0" y="260.5" text-anchor="middle" font-size="13" fill="#3F3A5C">Redis</text>
+</svg>
