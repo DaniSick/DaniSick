@@ -11,7 +11,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-card.svg">
-  <img src="assets/stack-card.svg" width="100%" alt="Stack. Languages: PHP, TypeScript, JavaScript, Python, C#, Dart. Backend: Laravel, Node.js. Frontend: React, Next.js, Livewire, Tailwind CSS. Infra and DevOps: Docker, Linux, Cloudflare, GitHub Actions, Dokploy. Databases: PostgreSQL, MySQL, Redis.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-icons-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-icons.svg">
+  <img src="assets/stack-icons.svg" width="100%" alt="Stack. Languages: PHP, TypeScript, JavaScript, Python, C#, Dart. Backend: Laravel, Node.js. Frontend: React, Next.js, Livewire, Tailwind CSS. Infra and DevOps: Docker, Linux, Cloudflare, GitHub Actions, Dokploy. Databases: PostgreSQL, MySQL, Redis.">
 </picture>
