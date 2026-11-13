@@ -10,7 +10,7 @@ from theme import THEMES, HEAD, HERE, svg_open, panel, write
 ICONS = json.load(open(os.path.join(HERE, "icons.json")))
 # simple-icons has no C# or Dokploy mark: C# gets a plain hexagon (its logo shape), Dokploy a square
 ICONS["csharp"] = {"d": "M12 1 21.5 6.5v11L12 23 2.5 17.5v-11z", "hex": "512BD4"}
-ICONS["dokploy"] = {"d": "M3 3h18v18H3z", "hex": "7C3AED"}
+ICONS["dokploy"] = {"d": "M3 3h18v18H3z", "hex": "3B82F6"}
 STATS = json.load(open(os.path.join(HERE, "stats.json")))
 
 ROWS = [

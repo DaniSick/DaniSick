@@ -6,8 +6,8 @@ ASSETS = os.path.join(ROOT, "assets")
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 THEMES = {
-    "light": dict(body="#EEF2FA", head="#C3CEEB", title="#1E2A48", text="#36425E", chip="#DAE2F5", dot="#7C8FC6", accent="#4A68D2"),
-    "dark":  dict(body="#131720", head="#232C44", title="#DAE3FB", text="#B2BDD9", chip="#1B2133", dot="#7C8FC6", accent="#8CA6F6"),
+    "light": dict(body="#EDF4FD", head="#BBD3F3", title="#12294A", text="#2F4566", chip="#D9E7FA", dot="#6F9BD8", accent="#2F6FD6"),
+    "dark":  dict(body="#0F1724", head="#1D2E4A", title="#D8E6FB", text="#AFC2DE", chip="#16233A", dot="#6F9BD8", accent="#6EA8F7"),
 }
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
 HEAD = 44
