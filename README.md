@@ -5,7 +5,11 @@
 
 Most of my work is **multi-tenant SaaS**: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.
 
-<img src="assets/focus-cards.svg" width="100%" alt="Backend: REST APIs and integrations, queues and background jobs, query performance. Architecture: domain modelling, clear module boundaries, contracts that survive the next feature. Infrastructure: Docker and reproducible builds, CI/CD pipelines, monitored production deploys. Security: authorization on every state change, input validated at every boundary, tenant isolation by default.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-cards-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/focus-cards.svg">
+  <img src="assets/focus-cards.svg" width="100%" alt="Backend: REST APIs and integrations, queues and background jobs, query performance. Architecture: domain modelling, clear module boundaries, contracts that survive the next feature. Infrastructure: Docker and reproducible builds, CI/CD pipelines, monitored production deploys. Security: authorization on every state change, input validated at every boundary, tenant isolation by default.">
+</picture>
 
 ## Stack
 
