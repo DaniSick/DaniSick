@@ -1,10 +1,9 @@
 ## About
 
-> **I build and maintain complete software systems** — from backend architecture and APIs
-> to infrastructure and deployment pipelines, with correctness, maintainability and security
-> as the baseline rather than the goal.
+> **I build and maintain complete software systems** — backend, APIs, infrastructure and delivery —
+> with correctness, maintainability and security as the baseline, not the goal.
 
-I own the full lifecycle of a product: data model and domain logic, the APIs that expose them, and the containerised deployments, CI/CD and monitoring that keep them running. Most of my work is **SaaS and multi-tenant**, where data isolation, authorization and predictable performance are requirements, not afterthoughts.
+Most of my work is **multi-tenant SaaS**: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.
 
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-7C3AED?style=flat-square)
 ![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-6D28D9?style=flat-square)
@@ -16,20 +15,29 @@ I own the full lifecycle of a product: data model and domain logic, the APIs tha
 <tr>
 <td width="33%" valign="top">
 
-**Architecture**<br>
-<sub>Domain modelling, clear module boundaries and contracts that survive the next feature.</sub>
+**Architecture**
+
+- Domain modelling
+- Clear module boundaries
+- Contracts that survive the next feature
 
 </td>
 <td width="33%" valign="top">
 
-**Infrastructure**<br>
-<sub>Docker, CI/CD and reproducible deployments — from first commit to production.</sub>
+**Infrastructure**
+
+- Docker & reproducible builds
+- CI/CD pipelines
+- Monitored production deploys
 
 </td>
 <td width="33%" valign="top">
 
-**Security**<br>
-<sub>Authorization on every state change, validated input at every boundary, tenant isolation by default.</sub>
+**Security**
+
+- Authorization on every state change
+- Input validated at every boundary
+- Tenant isolation by default
 
 </td>
 </tr>
