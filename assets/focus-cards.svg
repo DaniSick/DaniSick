@@ -1,43 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1002" height="196" viewBox="0 0 1002 196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-<rect x="0.5" y="0.5" width="239" height="195" fill="#F1EEF9" stroke="#CDC6E8"/>
-<rect x="0" width="240" height="44" fill="#CDC6E8"/>
-<text x="18" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">BACKEND</text>
-<rect x="18" y="66" width="5" height="5" fill="#8B80B8"/>
-<text x="32" y="74" font-size="14" fill="#3F3A5C">REST APIs &amp; integrations</text>
-<rect x="18" y="95" width="5" height="5" fill="#8B80B8"/>
-<text x="32" y="103" font-size="14" fill="#3F3A5C">Queues &amp; background jobs</text>
-<rect x="18" y="124" width="5" height="5" fill="#8B80B8"/>
-<text x="32" y="132" font-size="14" fill="#3F3A5C">Query performance</text>
-<rect x="254.5" y="0.5" width="239" height="195" fill="#F1EEF9" stroke="#CDC6E8"/>
-<rect x="254" width="240" height="44" fill="#CDC6E8"/>
-<text x="272" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">ARCHITECTURE</text>
-<rect x="272" y="66" width="5" height="5" fill="#8B80B8"/>
-<text x="286" y="74" font-size="14" fill="#3F3A5C">Domain modelling</text>
-<rect x="272" y="95" width="5" height="5" fill="#8B80B8"/>
-<text x="286" y="103" font-size="14" fill="#3F3A5C">Clear module boundaries</text>
-<rect x="272" y="124" width="5" height="5" fill="#8B80B8"/>
-<text x="286" y="132" font-size="14" fill="#3F3A5C">Contracts that survive the</text>
-<text x="286" y="151" font-size="14" fill="#3F3A5C">next feature</text>
-<rect x="508.5" y="0.5" width="239" height="195" fill="#F1EEF9" stroke="#CDC6E8"/>
-<rect x="508" width="240" height="44" fill="#CDC6E8"/>
-<text x="526" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">INFRASTRUCTURE</text>
-<rect x="526" y="66" width="5" height="5" fill="#8B80B8"/>
-<text x="540" y="74" font-size="14" fill="#3F3A5C">Docker &amp; reproducible</text>
-<text x="540" y="93" font-size="14" fill="#3F3A5C">builds</text>
-<rect x="526" y="114" width="5" height="5" fill="#8B80B8"/>
-<text x="540" y="122" font-size="14" fill="#3F3A5C">CI/CD pipelines</text>
-<rect x="526" y="143" width="5" height="5" fill="#8B80B8"/>
-<text x="540" y="151" font-size="14" fill="#3F3A5C">Monitored production</text>
-<text x="540" y="170" font-size="14" fill="#3F3A5C">deploys</text>
-<rect x="762.5" y="0.5" width="239" height="195" fill="#F1EEF9" stroke="#CDC6E8"/>
-<rect x="762" width="240" height="44" fill="#CDC6E8"/>
-<text x="780" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">SECURITY</text>
-<rect x="780" y="66" width="5" height="5" fill="#8B80B8"/>
-<text x="794" y="74" font-size="14" fill="#3F3A5C">Authorization on every</text>
-<text x="794" y="93" font-size="14" fill="#3F3A5C">state change</text>
-<rect x="780" y="114" width="5" height="5" fill="#8B80B8"/>
-<text x="794" y="122" font-size="14" fill="#3F3A5C">Input validated at every</text>
-<text x="794" y="141" font-size="14" fill="#3F3A5C">boundary</text>
-<rect x="780" y="162" width="5" height="5" fill="#8B80B8"/>
-<text x="794" y="170" font-size="14" fill="#3F3A5C">Tenant isolation by default</text>
+<rect x="0.5" y="0.5" width="239" height="195" fill="#EEF2FA" stroke="#C3CEEB"/>
+<rect x="0" width="240" height="44" fill="#C3CEEB"/>
+<text x="18" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E2A48">BACKEND</text>
+<rect x="18" y="66" width="5" height="5" fill="#7C8FC6"/>
+<text x="32" y="74" font-size="14" fill="#36425E">REST APIs &amp; integrations</text>
+<rect x="18" y="95" width="5" height="5" fill="#7C8FC6"/>
+<text x="32" y="103" font-size="14" fill="#36425E">Queues &amp; background jobs</text>
+<rect x="18" y="124" width="5" height="5" fill="#7C8FC6"/>
+<text x="32" y="132" font-size="14" fill="#36425E">Query performance</text>
+<rect x="254.5" y="0.5" width="239" height="195" fill="#EEF2FA" stroke="#C3CEEB"/>
+<rect x="254" width="240" height="44" fill="#C3CEEB"/>
+<text x="272" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E2A48">ARCHITECTURE</text>
+<rect x="272" y="66" width="5" height="5" fill="#7C8FC6"/>
+<text x="286" y="74" font-size="14" fill="#36425E">Domain modelling</text>
+<rect x="272" y="95" width="5" height="5" fill="#7C8FC6"/>
+<text x="286" y="103" font-size="14" fill="#36425E">Clear module boundaries</text>
+<rect x="272" y="124" width="5" height="5" fill="#7C8FC6"/>
+<text x="286" y="132" font-size="14" fill="#36425E">Contracts that survive the</text>
+<text x="286" y="151" font-size="14" fill="#36425E">next feature</text>
+<rect x="508.5" y="0.5" width="239" height="195" fill="#EEF2FA" stroke="#C3CEEB"/>
+<rect x="508" width="240" height="44" fill="#C3CEEB"/>
+<text x="526" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E2A48">INFRASTRUCTURE</text>
+<rect x="526" y="66" width="5" height="5" fill="#7C8FC6"/>
+<text x="540" y="74" font-size="14" fill="#36425E">Docker &amp; reproducible</text>
+<text x="540" y="93" font-size="14" fill="#36425E">builds</text>
+<rect x="526" y="114" width="5" height="5" fill="#7C8FC6"/>
+<text x="540" y="122" font-size="14" fill="#36425E">CI/CD pipelines</text>
+<rect x="526" y="143" width="5" height="5" fill="#7C8FC6"/>
+<text x="540" y="151" font-size="14" fill="#36425E">Monitored production</text>
+<text x="540" y="170" font-size="14" fill="#36425E">deploys</text>
+<rect x="762.5" y="0.5" width="239" height="195" fill="#EEF2FA" stroke="#C3CEEB"/>
+<rect x="762" width="240" height="44" fill="#C3CEEB"/>
+<text x="780" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#1E2A48">SECURITY</text>
+<rect x="780" y="66" width="5" height="5" fill="#7C8FC6"/>
+<text x="794" y="74" font-size="14" fill="#36425E">Authorization on every</text>
+<text x="794" y="93" font-size="14" fill="#36425E">state change</text>
+<rect x="780" y="114" width="5" height="5" fill="#7C8FC6"/>
+<text x="794" y="122" font-size="14" fill="#36425E">Input validated at every</text>
+<text x="794" y="141" font-size="14" fill="#36425E">boundary</text>
+<rect x="780" y="162" width="5" height="5" fill="#7C8FC6"/>
+<text x="794" y="170" font-size="14" fill="#36425E">Tenant isolation by default</text>
 </svg>
