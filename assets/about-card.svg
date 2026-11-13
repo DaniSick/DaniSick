@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1002" height="214" viewBox="0 0 1002 214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
 <rect x="0.5" y="0.5" width="1001" height="213" fill="#F1EEF9" stroke="#CDC6E8"/>
-<rect width="1002" height="44" fill="#CDC6E8"/>
+<rect x="0" width="1002" height="44" fill="#CDC6E8"/>
 <text x="24" y="28" font-size="13" font-weight="700" letter-spacing="1.4" fill="#2E2A47">ABOUT</text>
 <text x="24" y="90" font-size="19" font-weight="600" fill="#2E2A47">I build and maintain complete software systems — backend, APIs, infrastructure and</text>
 <text x="24" y="118" font-size="19" font-weight="600" fill="#2E2A47">delivery — with correctness, maintainability and security as the baseline, not the goal.</text>
