@@ -5,46 +5,7 @@
 
 Most of my work is **multi-tenant SaaS**: products where data isolation, authorization and predictable performance are requirements from day one. I take them from the first data model to production, and keep them running there.
 
-<table>
-<tr>
-<td width="25%" valign="top">
-
-<img src="https://img.shields.io/badge/Backend-CDC6E8?style=for-the-badge" alt="Backend">
-
-- REST APIs & integrations
-- Queues & background jobs
-- Query performance
-
-</td>
-<td width="25%" valign="top">
-
-<img src="https://img.shields.io/badge/Architecture-CDC6E8?style=for-the-badge" alt="Architecture">
-
-- Domain modelling
-- Clear module boundaries
-- Contracts that survive the next feature
-
-</td>
-<td width="25%" valign="top">
-
-<img src="https://img.shields.io/badge/Infrastructure-CDC6E8?style=for-the-badge" alt="Infrastructure">
-
-- Docker & reproducible builds
-- CI/CD pipelines
-- Monitored production deploys
-
-</td>
-<td width="25%" valign="top">
-
-<img src="https://img.shields.io/badge/Security-CDC6E8?style=for-the-badge" alt="Security">
-
-- Authorization on every state change
-- Input validated at every boundary
-- Tenant isolation by default
-
-</td>
-</tr>
-</table>
+<img src="assets/focus.svg" width="100%" alt="Backend: REST APIs and integrations, queues and background jobs, query performance. Architecture: domain modelling, clear module boundaries, contracts that survive the next feature. Infrastructure: Docker and reproducible builds, CI/CD pipelines, monitored production deploys. Security: authorization on every state change, input validated at every boundary, tenant isolation by default.">
 
 ## Stack
 
