@@ -1,11 +1,10 @@
 {
   "contributions": 4246,
-  "current_streak": 1,
+  "current_streak": 0,
   "longest_streak": 11,
   "followers": 25,
   "since": "2024",
   "weeks": [
-    5,
     5,
     0,
     2,
@@ -56,6 +55,7 @@
     117,
     166,
     166,
-    25
+    25,
+    0
   ]
 }
